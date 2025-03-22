@@ -4,23 +4,18 @@ Installing the pakages mpv-libs and mpv-devel on Fedora >=39/41
 
 1. Run the command to install the packages:
  
-```  
-$ sudo dnf install mpv-libs  ```
-``` 
-$ sudo dnf install mpv-devel ```
+```  $ sudo dnf install mpv-libs  ```
+``` $ sudo dnf install mpv-devel ```
 
 
 2. Searching the packages on directory
 
-```
-$ cd /usr/lib64```
+``` $ cd /usr/lib64 ```
 
 
 3. Searching the mpv
 
-```
-$ find *mpv*``` or ``` 
-locate libmpv```
+```$ find *mpv*``` or ``` locate libmpv```
 
 
 The answer must be:
