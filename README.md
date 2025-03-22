@@ -3,9 +3,12 @@ this repo will help you solve libmpv error on linux when trying to run flet main
 Installing the pakages mpv-libs and mpv-devel on Fedora >=39/41 
 
 1. Run the command to install the packages:
+ 
+```$ sudo dnf install mpv-libs
+    $ sudo dnf install mpv-devel
 
-```$ sudo dnf install mpv-libs```
-``$ sudo dnf install mpv-devel```
+```
+
 
 
 2. Searching the packages on directory
