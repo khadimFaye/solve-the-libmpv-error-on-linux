@@ -26,7 +26,7 @@ The answer must be:
 4. Creating a symbolic link
 ------------------------------------------------------
 ```$ sudo ln -s /usr/lib64/libmpv.so /usr/lib64/libmpv.so.1``` 
+
 (change the path based on your case) in my case is /usr/lib64/libmpv.so
-------------------------------------------------------
 
 ennjoy!
